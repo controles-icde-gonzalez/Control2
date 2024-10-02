@@ -4,3 +4,5 @@
   python notebook con la data limpia y formateada
   licencia del MIT
   index.html que dirige a jupyter
+  lik de pagina web: https://controles-icde-gonzalez.github.io/Control2/
+  
