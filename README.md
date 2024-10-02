@@ -3,4 +3,4 @@
   Documento excel 'HDI', data con la que se trabajara
   python notebook con la data limpia y formateada
   licencia del MIT
-  index.html link que dirige a jupyter
+  index.html que dirige a jupyter
